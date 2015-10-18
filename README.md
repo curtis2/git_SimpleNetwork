@@ -1,0 +1,2 @@
+# git_SimpleNetwork
+android的http访问的网络框架，简化网络访问的使用
